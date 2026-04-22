@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://christianberwanger.github.io/christianberwanger.github.io/sitemap.xml
+Sitemap: https://christianberwanger.github.io/sitemap.xml
